@@ -1,3 +1,5 @@
+# 이 코드는 chatgpt의 도움으로 만들어진 코드입니다.
+# 
 import streamlit as st
 import pyshorteners
 
